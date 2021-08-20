@@ -1,0 +1,12 @@
+.Cell {
+  width: 100px;
+  height: 100px;
+  background: rgb(68, 78, 85);
+  border: #000 solid 1px;
+  box-sizing: border-box;
+  transition: all 0.1s;
+}
+.light {
+  background: rgb(130, 198, 247);
+  transition: all 0.1s;
+}

@@ -1,0 +1,17 @@
+table {
+  width: 500px;
+  margin: 0 auto;
+  border-spacing: 0px;
+}
+.won {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  font-size: 20px;
+  margin-top: 1.5rem;
+}
+.won button {
+  margin-top: 1.3rem;
+  padding: 10px 20px;
+}
